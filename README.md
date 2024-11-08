@@ -1,4 +1,4 @@
-# Tugas Praktikum filter_camera
+# TUGAS PRAKTIKUM filter_camera
 
 1. Membuat photo filter carousel
 Hasil:
